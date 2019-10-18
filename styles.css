@@ -1,0 +1,47 @@
+*{
+    font-family: 'GFS Didot', serif;
+}
+
+.right{
+    display: block;
+    float: right;
+    background-color: silver;
+    width: 70%;
+    height: 100%;
+}
+.about{
+    margin-top: 35%;
+    margin-left: 10%;
+}
+.about p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#dots{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+#mail{
+    float: right;
+    margin-top: 25%;
+    margin-right: 30px;
+}
+.left{
+    display: block;
+    float: left;
+    background: url('good.jpeg');
+    background-position: center;
+    background-size: cover;
+    width: 30%;
+    height: 100%;
+}
+
+.block-text{
+    display: block;
+    margin-top: 50%;
+}
+.text{
+    margin-left: 25%;
+    font-size: 20px; 
+}
+
