@@ -3,13 +3,12 @@
 ## Description
 
 ## Programs used
-
-## 
+The programs used for creating this webpage is HTML, CSS
 
 ## Bugs 
-
-## How the page oparates
-
+No bugs 
+## Contact of the Developer
+    abdullahi@abdullahi 
 ## License 
 MIT License
 
