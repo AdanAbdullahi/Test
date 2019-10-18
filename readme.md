@@ -1,14 +1,15 @@
-# TEST 
+# My Page  
 
 ## Description
 
-## Technology used
+## Programs used
 
-## Developers 
+## 
 
 ## Bugs 
 
-## Systems logs 
+## How the page oparates
 
 ## License 
+MIT License
 
