@@ -4,8 +4,8 @@
 # Description of the Project 
 The project is about a simple webpage with a brief profile of myslef. 
 
-# Designers Information
-The programs used for creating this webpage is HTML, CSS
+# Designers Information and Support 
+The webpage is designed by Abdullahi, a Moringa Student and can ne contacted on abdullahi@abd.com
 
 # Bugs 
 No bugs 
