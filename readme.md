@@ -1,5 +1,5 @@
 # Name of the Project   
-    The project name is  Mypage
+The project name is  Mypage
 
 # Description of the Project 
 The project is about a simple webpage with a brief profile of myslef. 
@@ -14,10 +14,9 @@ Programs used in designing the webpage are HTML, CSS
 No bugs 
 
 # BDD
- #
-
-# Contact of the Developer
-abdullahi@abdullahi 
+ 
+# Link to the project repository 
+https://adanabdullahi.github.io/Week-1-Project/
 
 # License 
 MIT License
